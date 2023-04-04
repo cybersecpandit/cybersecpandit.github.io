@@ -47,6 +47,22 @@ Where we are supplying the custom port 2220 instead of the default port of `21` 
 </details>
 
 
+<button class="collapsible" id="yaml">Click here for the Solution.</button>
+
+<div class="content" id="yamldata" markdown="1">
+
+#### Commands to Execute
+  ```bash
+  ssh -p 2220 bandit0@bandit.labs.overthewire.org
+  ```
+#### Explanation
+
+Where we are supplying the custom port 2220 instead of the default port of `21` for ssh to work. 
+
+</div>
+
+
+
 # Level 0 -> Level 1
 
 Can you read normal files in Linux ?
