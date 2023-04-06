@@ -37,9 +37,11 @@ In this level we want to know how we can first access the Game and how we can be
   <summary> Level 0 - Solution </summary>
   
   #### Commands to Execute
+
   ```bash
   ssh -p 2220 bandit0@bandit.labs.overthewire.org
   ```
+
 #### Explanation
 
 Where we are supplying the custom port 2220 instead of the default port of `21` for ssh to work. 
@@ -52,9 +54,11 @@ Where we are supplying the custom port 2220 instead of the default port of `21` 
 <div class="content" id="yamldata" markdown="1">
 
 #### Commands to Execute
+
   ```bash
   ssh -p 2220 bandit0@bandit.labs.overthewire.org
   ```
+
 #### Explanation
 
 Where we are supplying the custom port 2220 instead of the default port of `21` for ssh to work. 
@@ -106,11 +110,15 @@ Can you read "-" files in Linux ?
   <summary> Solution </summary>
   
   Any of the following commands are valid.
+  
   #### Commands to Execute
+
   ```bash
   cat ./-
   ```
+
 #### Explanation
 To tell the cat command that "-" here refers to a file we use a relative reference from ./ - which is the current directory.
+
 </details>
 
