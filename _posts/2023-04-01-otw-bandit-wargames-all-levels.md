@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Over The Wire Bandit - All levels Hints and Solution
-subtitle: Learn about Linux by playing a game.
 tags: [Linux, OverTheWire, Walkthrough]
 ---
 
@@ -30,6 +28,8 @@ In this level we want to know how we can first access the Game and how we can be
 
 - Still unable to get it to work ? Did you try reading the Helpful Reading materials specially the Wiki Article ?
 
+{::options parse_block_html="true" /}
+
 <details>
   <summary> Level 0 - Solution </summary>
   
@@ -45,23 +45,7 @@ Where we are supplying the custom port 2220 instead of the default port of `21` 
 
 </details>
 
-
-<button class="collapsible" id="yaml">Click here for the Solution.</button>
-
-<div class="content" id="yamldata" markdown="1">
-
-#### Commands to Execute
-
-  ```bash
-  ssh -p 2220 bandit0@bandit.labs.overthewire.org
-  ```
-
-#### Explanation
-
-Where we are supplying the custom port 2220 instead of the default port of `21` for ssh to work. 
-
-</div>
-
+{::options parse_block_html="false" /}
 
 
 # Level 0 -> Level 1
