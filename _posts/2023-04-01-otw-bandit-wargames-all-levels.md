@@ -31,7 +31,7 @@ In this level we want to know how we can first access the Game and how we can be
 {::options parse_block_html="true" /}
 
 <details>
-  <summary> Level 0 - Solution </summary>
+  <summary  markdown="span"> Level 0 - Solution </summary>
   
   #### Commands to Execute
 
