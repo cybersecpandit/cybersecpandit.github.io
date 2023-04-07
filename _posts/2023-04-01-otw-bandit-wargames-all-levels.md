@@ -2,9 +2,6 @@
 layout: post
 title: Over The Wire Bandit - All levels Hints and Solution
 subtitle: Learn about Linux by playing a game.
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [Linux, OverTheWire, Walkthrough]
 ---
 
