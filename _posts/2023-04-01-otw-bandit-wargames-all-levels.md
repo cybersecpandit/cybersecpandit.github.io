@@ -8,6 +8,8 @@ This makes it very enjoyable and learning a lot of tools and tricks of various b
 
 >This writeup will be heavily **hint** focused, but we will also be disclosing each command to get the job done for each level.
 
+<!--more-->
+
 If you are able to understand Nepali Language, then perhaps you could also enjoy the YouTube Series that I have made for this topic going in Depth in each of the Levels, this I would highly recommend for any beginners who want to learn Linux. 
 
 ## Recommended Path:
@@ -31,9 +33,9 @@ In this level we want to know how we can first access the Game and how we can be
 {::options parse_block_html="true" /}
 
 <details>
-  <summary  markdown="span"> Level 0 - Solution </summary>
-  
-  #### Commands to Execute
+  <summary  markdown="span"> Spoiler! Solution </summary>
+
+#### Commands to Execute
 
   ```bash
   ssh -p 2220 bandit0@bandit.labs.overthewire.org
@@ -87,8 +89,9 @@ Can you read "-" files in Linux ?
 
   This means that its reading Standard Input for cat. 
 
+{::options parse_block_html="true" /}
 <details>
-  <summary> Solution </summary>
+  <summary  markdown="span"> Solution </summary>
   
   Any of the following commands are valid.
   
@@ -102,4 +105,7 @@ Can you read "-" files in Linux ?
 To tell the cat command that "-" here refers to a file we use a relative reference from ./ - which is the current directory.
 
 </details>
+{::options parse_block_html="false" /}
+
+
 
