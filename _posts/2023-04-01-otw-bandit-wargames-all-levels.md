@@ -10,7 +10,13 @@ This makes it very enjoyable and learning a lot of tools and tricks of various b
 
 <!--more-->
 
-If you are able to understand Nepali Language, then perhaps you could also enjoy the YouTube Series that I have made for this topic going in Depth in each of the Levels, this I would highly recommend for any beginners who want to learn Linux. 
+If you are able to understand Nepali Language, then perhaps you could also enjoy the YouTube Series [Youtube Playlist - OverTheWire Bandit in Nepali](https://www.youtube.com/watch?v=CeAePLzwTuo&list=PLKocjee98idKk58y0GnqO83U0w83tNYQp&pp=gAQBiAQB)  that I have made for this topic going in Depth in each of the Levels, this I would highly recommend for any beginners who want to learn Linux. 
+
+# Note: Not all levels are present
+
+`Note`{:.warning} 
+
+Please reffer to : [Youtube Playlist - OverTheWire Bandit in Nepali](https://www.youtube.com/watch?v=CeAePLzwTuo&list=PLKocjee98idKk58y0GnqO83U0w83tNYQp&pp=gAQBiAQB) for details on all the levels.
 
 ## Recommended Path:
 Start by trying to *play this game on your own.* We will be providing the solution part for each level at the end, try to solve it on your own first and follow the various hints and references.
